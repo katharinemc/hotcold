@@ -1,0 +1,10 @@
+.header {
+    background-color: orange;
+    display: flex;
+    min-height: 25%;
+    align-content: space-between;
+}
+
+.nav {
+    background-color: pink;
+}
